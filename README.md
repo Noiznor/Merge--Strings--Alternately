@@ -1,4 +1,4 @@
-# Merge--Strings--Alternately
+# Merge Strings Alternately(Python)
 
 <h1 align="left">Question</h1>
 
